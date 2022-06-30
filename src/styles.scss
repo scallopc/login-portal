@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "assets/scss/variable.scss";
+
+
+
+body { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #514b79;
+    overflow: hidden !important;
+    font-family:Arial, helvetica, sans-serif;
+    height: 100%;
+  }
+  

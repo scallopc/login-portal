@@ -1,3 +1,6 @@
+
+  <img src="login-portal-master.png" class="Master Of Science" />
+
 # Login
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.

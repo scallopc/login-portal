@@ -1,0 +1,37 @@
+/* bg global init */
+
+.container-box {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://patriot.xriot.com.br/assets/image/iot_back.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px 0;
+  
+    img {
+      width: 10em;
+      max-width: 250px;
+      margin: auto auto 20px auto;
+      display: block;
+    } 
+    
+    .box {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      box-sizing: border-box;
+      border-radius: 15px; 
+      padding: 40px;
+    }
+    
+  
+  }
+  
+ 
+  
+  /* bg global finish */
+  
