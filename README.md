@@ -1,5 +1,5 @@
 
-  <img src="login-portal-master.png" alt="Master Of Science" />
+  <img src="loginPortalMaster.png" alt="Master Of Science" />
 
 # Login
 
